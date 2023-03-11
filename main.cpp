@@ -8,4 +8,6 @@ int main(int)
 	int n;
 	cout << "Input n: ";
 	cin >> n;
+
+	cout << "n + n = " << n + n << endl;
 }
