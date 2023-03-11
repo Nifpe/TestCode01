@@ -10,4 +10,6 @@ int main(int)
 	cin >> n;
 
 	cout << "n + n = " << n + n << endl;
+
+	cout << "Hi" << endl;
 }
